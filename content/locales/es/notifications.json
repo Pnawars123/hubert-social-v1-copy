@@ -1,0 +1,22 @@
+{
+  "HG-SM-notification-hubert-social-v1-a": {
+    "title": "Seamos sinceros: llevar las redes sociales de tu negocio es como ir al gimnasio a diario — sabes que deberías, pero sigue siendo una lata.",
+    "subtitles": [
+      "¿Y si pudieras delegar la parte difícil? Te presentamos a Hubert, nuestro nuevo producto hermano.",
+      "Recoge los datos clave de tu negocio y los usa para escribirte un post a la semana, listo para revisar y programar, incluso por WhatsApp 📱"
+    ],
+    "primaryCta": "Mira tu primer post, es gratis →",
+    "secondaryCta": "Quizás más tarde",
+    "ctaAction": "hubert"
+  },
+  "HG-SM-notification-hubert-social-v1-b": {
+    "title": "¿Y si la parte de escribir en tus redes sociales se hiciera sola?",
+    "subtitles": [
+      "Acabamos de lanzar un producto que reúne los datos clave de tu negocio y los convierte en un post a la semana, listo para revisar y programar, ¡incluso por WhatsApp!",
+      "Es Hubert, nuestro nuevo producto hermano."
+    ],
+    "primaryCta": "Mira tu primer post, es gratis →",
+    "secondaryCta": "Ahora no",
+    "ctaAction": "hubert"
+  }
+}

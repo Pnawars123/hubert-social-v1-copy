@@ -1,0 +1,464 @@
+{
+  "en": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Let's be honest: social media for your business is like working out daily — you know you should, but it's still a pain.",
+      "subtitles": [
+        "So what if you could hand off the hard part? Meet Hubert, our new sister product.",
+        "It picks up the key things about your business and uses them to write you one post a week, ready for you to review and schedule, even over WhatsApp 📱"
+      ],
+      "primaryCta": "See your first post, completely free →",
+      "secondaryCta": "Maybe later",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "What if the writing part of your social media just took care of itself?",
+      "subtitles": [
+        "We've just launched a product that gathers the key things about your business and turns them into one post a week, ready for you to review and schedule, even over WhatsApp!",
+        "It's our sister product, Hubert."
+      ],
+      "primaryCta": "See your first post, completely free →",
+      "secondaryCta": "Not right now",
+      "ctaAction": "hubert"
+    }
+  },
+  "it": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Diciamocelo: gestire i social della tua attività è come allenarsi ogni giorno — sai che dovresti, ma resta comunque una scocciatura.",
+      "subtitles": [
+        "E se potessi affidare a qualcun altro la parte più difficile? Ti presento Hubert, il nostro nuovo prodotto gemello.",
+        "Raccoglie le informazioni chiave sulla tua attività e le usa per scriverti un post a settimana, pronto da rivedere e programmare, anche via WhatsApp 📱"
+      ],
+      "primaryCta": "Guarda il tuo primo post, è gratis →",
+      "secondaryCta": "Forse più tardi",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "E se la parte più noiosa dei social si scrivesse da sola?",
+      "subtitles": [
+        "Abbiamo appena lanciato un prodotto che raccoglie le informazioni chiave sulla tua attività e le trasforma in un post a settimana, pronto da rivedere e programmare, anche via WhatsApp!",
+        "È Hubert, il nostro nuovo prodotto gemello."
+      ],
+      "primaryCta": "Guarda il tuo primo post, è gratis →",
+      "secondaryCta": "Non ora",
+      "ctaAction": "hubert"
+    }
+  },
+  "fr": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Soyons honnêtes : gérer les réseaux sociaux de ton entreprise, c'est comme aller à la salle tous les jours — tu sais que tu devrais, mais ça reste une corvée.",
+      "subtitles": [
+        "Et si tu pouvais confier le plus dur à quelqu'un d'autre ? Voici Hubert, le petit nouveau de la famille.",
+        "Il récupère les infos clés sur ton entreprise et s'en sert pour t'écrire un post par semaine, prêt à relire et à programmer, même via WhatsApp 📱"
+      ],
+      "primaryCta": "Vois ton premier post, c'est gratuit →",
+      "secondaryCta": "Plus tard peut-être",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "Et si la partie rédaction de tes réseaux sociaux se gérait toute seule ?",
+      "subtitles": [
+        "On vient de lancer un produit qui rassemble les infos clés sur ton entreprise et les transforme en un post par semaine, prêt à relire et à programmer, même via WhatsApp !",
+        "C'est Hubert, le petit nouveau de la famille."
+      ],
+      "primaryCta": "Vois ton premier post, c'est gratuit →",
+      "secondaryCta": "Pas maintenant",
+      "ctaAction": "hubert"
+    }
+  },
+  "es": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Seamos sinceros: llevar las redes sociales de tu negocio es como ir al gimnasio a diario — sabes que deberías, pero sigue siendo una lata.",
+      "subtitles": [
+        "¿Y si pudieras delegar la parte difícil? Te presentamos a Hubert, nuestro nuevo producto hermano.",
+        "Recoge los datos clave de tu negocio y los usa para escribirte un post a la semana, listo para revisar y programar, incluso por WhatsApp 📱"
+      ],
+      "primaryCta": "Mira tu primer post, es gratis →",
+      "secondaryCta": "Quizás más tarde",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "¿Y si la parte de escribir en tus redes sociales se hiciera sola?",
+      "subtitles": [
+        "Acabamos de lanzar un producto que reúne los datos clave de tu negocio y los convierte en un post a la semana, listo para revisar y programar, ¡incluso por WhatsApp!",
+        "Es Hubert, nuestro nuevo producto hermano."
+      ],
+      "primaryCta": "Mira tu primer post, es gratis →",
+      "secondaryCta": "Ahora no",
+      "ctaAction": "hubert"
+    }
+  },
+  "de-CH": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Seien wir ehrlich: Social Media für Ihr Unternehmen ist wie tägliches Training — Sie wissen, dass Sie sollten, aber lästig bleibt es trotzdem.",
+      "subtitles": [
+        "Was, wenn Sie den schwierigsten Teil abgeben könnten? Das ist Hubert, unser neues Schwesterprodukt.",
+        "Es sammelt die wichtigsten Infos zu Ihrem Unternehmen und schreibt Ihnen damit einen Post pro Woche, bereit zum Prüfen und Planen, sogar per WhatsApp 📱"
+      ],
+      "primaryCta": "Ersten Post ansehen, gratis →",
+      "secondaryCta": "Vielleicht später",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "Was, wenn sich der Schreib-Teil Ihrer Social Media von selbst erledigen würde?",
+      "subtitles": [
+        "Wir haben gerade ein Produkt lanciert, das die wichtigsten Infos zu Ihrem Unternehmen sammelt und daraus einen Post pro Woche macht, bereit zum Prüfen und Planen, sogar per WhatsApp!",
+        "Es ist Hubert, unser neues Schwesterprodukt."
+      ],
+      "primaryCta": "Ersten Post ansehen, gratis →",
+      "secondaryCta": "Jetzt nicht",
+      "ctaAction": "hubert"
+    }
+  },
+  "de": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Seien wir ehrlich: Social Media für Ihr Unternehmen ist wie tägliches Training — Sie wissen, dass Sie sollten, aber lästig bleibt es trotzdem.",
+      "subtitles": [
+        "Was, wenn Sie den schwierigsten Teil abgeben könnten? Das ist Hubert, unser neues Schwesterprodukt.",
+        "Es sammelt die wichtigsten Infos zu Ihrem Unternehmen und schreibt Ihnen damit einen Post pro Woche, bereit zum Prüfen und Planen, sogar per WhatsApp 📱"
+      ],
+      "primaryCta": "Ersten Post ansehen, gratis →",
+      "secondaryCta": "Vielleicht später",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "Was, wenn sich der Schreib-Teil Ihrer Social Media von selbst erledigen würde?",
+      "subtitles": [
+        "Wir haben gerade ein Produkt veröffentlicht, das die wichtigsten Infos zu Ihrem Unternehmen sammelt und daraus einen Post pro Woche macht, bereit zum Prüfen und Planen, sogar per WhatsApp!",
+        "Es ist Hubert, unser neues Schwesterprodukt."
+      ],
+      "primaryCta": "Ersten Post ansehen, gratis →",
+      "secondaryCta": "Jetzt nicht",
+      "ctaAction": "hubert"
+    }
+  },
+  "nl": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Even eerlijk: social media voor je bedrijf is net als elke dag sporten — je weet dat het moet, maar het blijft een gedoe.",
+      "subtitles": [
+        "Wat als je het lastigste deel uit handen kon geven? Maak kennis met Hubert, ons nieuwe zusterproduct.",
+        "Het verzamelt de belangrijkste dingen over je bedrijf en schrijft daarmee één post per week, klaar om te bekijken en in te plannen, zelfs via WhatsApp 📱"
+      ],
+      "primaryCta": "Bekijk je eerste post, helemaal gratis →",
+      "secondaryCta": "Misschien later",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "Wat als het schrijfwerk voor je social media zichzelf regelde?",
+      "subtitles": [
+        "We hebben net een product gelanceerd dat de belangrijkste dingen over je bedrijf verzamelt en er één post per week van maakt, klaar om te bekijken en in te plannen, zelfs via WhatsApp!",
+        "Het is Hubert, ons nieuwe zusterproduct."
+      ],
+      "primaryCta": "Bekijk je eerste post, helemaal gratis →",
+      "secondaryCta": "Nu even niet",
+      "ctaAction": "hubert"
+    }
+  },
+  "nl-BE": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Even eerlijk: social media voor je bedrijf is net als elke dag sporten — je weet dat het moet, maar het blijft een gedoe.",
+      "subtitles": [
+        "Wat als je het lastigste deel uit handen kon geven? Maak kennis met Hubert, ons nieuwe zusterproduct.",
+        "Het verzamelt de belangrijkste dingen over je bedrijf en schrijft daarmee één post per week, klaar om te bekijken en in te plannen, zelfs via WhatsApp 📱"
+      ],
+      "primaryCta": "Bekijk je eerste post, helemaal gratis →",
+      "secondaryCta": "Misschien later",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "Wat als het schrijfwerk voor je social media zichzelf regelde?",
+      "subtitles": [
+        "We hebben net een product gelanceerd dat de belangrijkste dingen over je bedrijf verzamelt en er één post per week van maakt, klaar om te bekijken en in te plannen, zelfs via WhatsApp!",
+        "Het is Hubert, ons nieuwe zusterproduct."
+      ],
+      "primaryCta": "Bekijk je eerste post, helemaal gratis →",
+      "secondaryCta": "Nu even niet",
+      "ctaAction": "hubert"
+    }
+  },
+  "pt": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Sejamos sinceros: gerir as redes sociais do teu negócio é como treinar todos os dias — sabes que devias, mas continua a ser uma seca.",
+      "subtitles": [
+        "E se pudesses passar a parte difícil a outra pessoa? Apresentamos o Hubert, o nosso novo produto irmão.",
+        "Reúne as informações principais sobre o teu negócio e usa-as para te escrever um post por semana, pronto a rever e a agendar, até por WhatsApp 📱"
+      ],
+      "primaryCta": "Vê o teu primeiro post, é grátis →",
+      "secondaryCta": "Talvez mais tarde",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "E se a parte de escrever nas tuas redes sociais se resolvesse sozinha?",
+      "subtitles": [
+        "Acabámos de lançar um produto que reúne as informações principais sobre o teu negócio e as transforma num post por semana, pronto a rever e a agendar, até por WhatsApp!",
+        "É o Hubert, o nosso novo produto irmão."
+      ],
+      "primaryCta": "Vê o teu primeiro post, é grátis →",
+      "secondaryCta": "Agora não",
+      "ctaAction": "hubert"
+    }
+  },
+  "el": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Ας είμαστε ειλικρινείς: τα social media για την επιχείρησή σου είναι σαν τη γυμναστική κάθε μέρα — ξέρεις ότι πρέπει, αλλά παραμένει αγγαρεία.",
+      "subtitles": [
+        "Κι αν μπορούσες να αναθέσεις το δύσκολο κομμάτι σε κάποιον άλλον; Να ο Hubert, το νέο μας αδελφικό προϊόν.",
+        "Συγκεντρώνει τα βασικά για την επιχείρησή σου και σου γράφει μία ανάρτηση την εβδομάδα, έτοιμη να την ελέγξεις και να την προγραμματίσεις, ακόμα και μέσω WhatsApp 📱"
+      ],
+      "primaryCta": "Δες την πρώτη σου ανάρτηση, δωρεάν →",
+      "secondaryCta": "Ίσως αργότερα",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "Κι αν το γράψιμο στα social media σου γινόταν από μόνο του;",
+      "subtitles": [
+        "Μόλις λανσάραμε ένα προϊόν που συγκεντρώνει τα βασικά για την επιχείρησή σου και τα μετατρέπει σε μία ανάρτηση την εβδομάδα, έτοιμη να την ελέγξεις και να την προγραμματίσεις, ακόμα και μέσω WhatsApp!",
+        "Είναι ο Hubert, το νέο μας αδελφικό προϊόν."
+      ],
+      "primaryCta": "Δες την πρώτη σου ανάρτηση, δωρεάν →",
+      "secondaryCta": "Όχι τώρα",
+      "ctaAction": "hubert"
+    }
+  },
+  "bg": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Нека сме честни: социалните мрежи за твоя бизнес са като ежедневната тренировка — знаеш, че трябва, но пак си остава мъчение.",
+      "subtitles": [
+        "А какво ще кажеш да предадеш трудната част на друг? Запознай се с Hubert, новия ни сроден продукт.",
+        "Той събира най-важното за твоя бизнес и с него ти написва по една публикация седмично, готова за преглед и насрочване, дори през WhatsApp 📱"
+      ],
+      "primaryCta": "Виж първата си публикация, напълно безплатно →",
+      "secondaryCta": "Може би по-късно",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "Ами ако писането за социалните ти мрежи се погрижеше само за себе си?",
+      "subtitles": [
+        "Току-що пуснахме продукт, който събира най-важното за твоя бизнес и го превръща в по една публикация седмично, готова за преглед и насрочване, дори през WhatsApp!",
+        "Това е Hubert, новият ни сроден продукт."
+      ],
+      "primaryCta": "Виж първата си публикация, напълно безплатно →",
+      "secondaryCta": "Не сега",
+      "ctaAction": "hubert"
+    }
+  },
+  "ca": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Siguem sincers: les xarxes socials del teu negoci són com entrenar cada dia — saps que ho hauries de fer, però continua sent un embolic.",
+      "subtitles": [
+        "I si poguessis delegar la part difícil? Et presentem en Hubert, el nostre nou producte germà.",
+        "Recull les coses clau del teu negoci i les fa servir per escriure't una publicació a la setmana, a punt per revisar i programar, fins i tot per WhatsApp 📱"
+      ],
+      "primaryCta": "Mira la teva primera publicació, totalment gratis →",
+      "secondaryCta": "Potser més tard",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "I si la part d'escriure de les teves xarxes socials es resolgués sola?",
+      "subtitles": [
+        "Acabem de llançar un producte que reuneix les coses clau del teu negoci i les converteix en una publicació a la setmana, a punt per revisar i programar, fins i tot per WhatsApp!",
+        "És en Hubert, el nostre nou producte germà."
+      ],
+      "primaryCta": "Mira la teva primera publicació, totalment gratis →",
+      "secondaryCta": "Ara no",
+      "ctaAction": "hubert"
+    }
+  },
+  "cs": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Buďme upřímní: sociální sítě pro tvůj byznys jsou jako každodenní cvičení — víš, že bys měl(a), ale pořád je to otrava.",
+      "subtitles": [
+        "Co kdybys tu těžkou část mohl(a) předat někomu jinému? Seznam se s Hubertem, naším novým sourozeneckým produktem.",
+        "Sesbírá klíčové věci o tvém podnikání a napíše ti z nich jeden příspěvek týdně, připravený ke kontrole a naplánování, i přes WhatsApp 📱"
+      ],
+      "primaryCta": "Podívej se na svůj první příspěvek, úplně zdarma →",
+      "secondaryCta": "Možná později",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "Co kdyby se psaní na tvé sociální sítě postaralo samo o sebe?",
+      "subtitles": [
+        "Právě jsme spustili produkt, který sesbírá klíčové věci o tvém podnikání a promění je v jeden příspěvek týdně, připravený ke kontrole a naplánování, i přes WhatsApp!",
+        "Je to Hubert, náš nový sourozenecký produkt."
+      ],
+      "primaryCta": "Podívej se na svůj první příspěvek, úplně zdarma →",
+      "secondaryCta": "Teď ne",
+      "ctaAction": "hubert"
+    }
+  },
+  "da": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Lad os være ærlige: sociale medier for din virksomhed er som at træne hver dag — du ved, du burde, men det er stadig en plage.",
+      "subtitles": [
+        "Hvad nu hvis du kunne give den svære del videre? Mød Hubert, vores nye søsterprodukt.",
+        "Den samler de vigtigste ting om din virksomhed og bruger dem til at skrive dig ét opslag om ugen, klar til at gennemgå og planlægge, endda over WhatsApp 📱"
+      ],
+      "primaryCta": "Se dit første opslag, helt gratis →",
+      "secondaryCta": "Måske senere",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "Hvad nu hvis skrivedelen af dine sociale medier klarede sig selv?",
+      "subtitles": [
+        "Vi har lige lanceret et produkt, der samler de vigtigste ting om din virksomhed og laver dem til ét opslag om ugen, klar til at gennemgå og planlægge, endda over WhatsApp!",
+        "Det er Hubert, vores nye søsterprodukt."
+      ],
+      "primaryCta": "Se dit første opslag, helt gratis →",
+      "secondaryCta": "Ikke lige nu",
+      "ctaAction": "hubert"
+    }
+  },
+  "fi": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Ollaan rehellisiä: yrityksesi somen hoitaminen on kuin päivittäinen treeni — tiedät, että pitäisi, mutta silti se on vaivalloista.",
+      "subtitles": [
+        "Mitä jos voisit antaa vaikeimman osan jonkun muun hoidettavaksi? Tässä on Hubert, uusi sisartuotteemme.",
+        "Se poimii yrityksesi tärkeimmät asiat ja kirjoittaa niistä sinulle yhden julkaisun viikossa, valmiina tarkistettavaksi ja ajastettavaksi, jopa WhatsAppin kautta 📱"
+      ],
+      "primaryCta": "Katso ensimmäinen julkaisusi, täysin ilmaiseksi →",
+      "secondaryCta": "Ehkä myöhemmin",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "Mitä jos somesi kirjoittaminen hoituisi itsestään?",
+      "subtitles": [
+        "Julkaisimme juuri tuotteen, joka kokoaa yrityksesi tärkeimmät asiat ja muuttaa ne yhdeksi julkaisuksi viikossa, valmiina tarkistettavaksi ja ajastettavaksi, jopa WhatsAppin kautta!",
+        "Se on Hubert, uusi sisartuotteemme."
+      ],
+      "primaryCta": "Katso ensimmäinen julkaisusi, täysin ilmaiseksi →",
+      "secondaryCta": "Ei nyt",
+      "ctaAction": "hubert"
+    }
+  },
+  "hu": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Legyünk őszinték: a vállalkozásod közösségi médiája olyan, mint a napi edzés — tudod, hogy kellene, de attól még nyűg marad.",
+      "subtitles": [
+        "Mi lenne, ha a nehezét átadhatnád valaki másnak? Ismerd meg Hubertet, az új testvértermékünket.",
+        "Összeszedi a lényeget a vállalkozásodról, és ebből ír neked heti egy posztot, készen az átnézésre és ütemezésre, akár WhatsAppon is 📱"
+      ],
+      "primaryCta": "Nézd meg az első posztod, teljesen ingyen →",
+      "secondaryCta": "Talán később",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "Mi lenne, ha a közösségi médiád írós része magától megoldódna?",
+      "subtitles": [
+        "Épp most indítottunk egy terméket, amely összegyűjti a lényeget a vállalkozásodról, és heti egy poszttá alakítja, készen az átnézésre és ütemezésre, akár WhatsAppon is!",
+        "Ő Hubert, az új testvértermékünk."
+      ],
+      "primaryCta": "Nézd meg az első posztod, teljesen ingyen →",
+      "secondaryCta": "Most nem",
+      "ctaAction": "hubert"
+    }
+  },
+  "no": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "La oss være ærlige: sosiale medier for bedriften din er som å trene hver dag — du vet du burde, men det er fortsatt et ork.",
+      "subtitles": [
+        "Hva om du kunne gi fra deg den vanskelige delen? Møt Hubert, det nye søsterproduktet vårt.",
+        "Den plukker opp de viktigste tingene om bedriften din og bruker dem til å skrive deg ett innlegg i uka, klart til å gjennomgå og planlegge, til og med over WhatsApp 📱"
+      ],
+      "primaryCta": "Se ditt første innlegg, helt gratis →",
+      "secondaryCta": "Kanskje senere",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "Hva om skrivedelen av sosiale medier ordnet seg selv?",
+      "subtitles": [
+        "Vi har akkurat lansert et produkt som samler de viktigste tingene om bedriften din og gjør dem om til ett innlegg i uka, klart til å gjennomgå og planlegge, til og med over WhatsApp!",
+        "Det er Hubert, det nye søsterproduktet vårt."
+      ],
+      "primaryCta": "Se ditt første innlegg, helt gratis →",
+      "secondaryCta": "Ikke nå",
+      "ctaAction": "hubert"
+    }
+  },
+  "sk": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Buďme úprimní: sociálne siete pre tvoj biznis sú ako každodenné cvičenie — vieš, že by si mal(a), ale aj tak je to otrava.",
+      "subtitles": [
+        "Čo keby si tú ťažkú časť mohol(la) prenechať niekomu inému? Zoznám sa s Hubertom, naším novým súrodeneckým produktom.",
+        "Pozbiera kľúčové veci o tvojom podnikaní a napíše ti z nich jeden príspevok týždenne, pripravený na kontrolu a naplánovanie, aj cez WhatsApp 📱"
+      ],
+      "primaryCta": "Pozri si svoj prvý príspevok, úplne zadarmo →",
+      "secondaryCta": "Možno neskôr",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "Čo keby sa písanie na tvoje sociálne siete postaralo samo o seba?",
+      "subtitles": [
+        "Práve sme spustili produkt, ktorý pozbiera kľúčové veci o tvojom podnikaní a premení ich na jeden príspevok týždenne, pripravený na kontrolu a naplánovanie, aj cez WhatsApp!",
+        "Je to Hubert, náš nový súrodenecký produkt."
+      ],
+      "primaryCta": "Pozri si svoj prvý príspevok, úplne zadarmo →",
+      "secondaryCta": "Teraz nie",
+      "ctaAction": "hubert"
+    }
+  },
+  "sr": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Budimo iskreni: društvene mreže za tvoj biznis su kao svakodnevni trening — znaš da bi trebalo, ali i dalje je gnjavaža.",
+      "subtitles": [
+        "A šta ako bi teški deo mogao da prepustiš nekom drugom? Upoznaj Hubert, naš novi srodni proizvod.",
+        "Prikupi ključne stvari o tvom poslovanju i na osnovu njih ti napiše jednu objavu nedeljno, spremnu za pregled i zakazivanje, čak i preko WhatsApp-a 📱"
+      ],
+      "primaryCta": "Pogledaj svoju prvu objavu, potpuno besplatno →",
+      "secondaryCta": "Можда касније",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "A šta ako bi se pisanje za tvoje društvene mreže samo pobrinulo za sebe?",
+      "subtitles": [
+        "Upravo smo lansirali proizvod koji prikuplja ključne stvari o tvom poslovanju i pretvara ih u jednu objavu nedeljno, spremnu za pregled i zakazivanje, čak i preko WhatsApp-a!",
+        "To je Hubert, naš novi srodni proizvod."
+      ],
+      "primaryCta": "Pogledaj svoju prvu objavu, potpuno besplatno →",
+      "secondaryCta": "Не сада",
+      "ctaAction": "hubert"
+    }
+  },
+  "sv": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Låt oss vara ärliga: sociala medier för ditt företag är som att träna varje dag — du vet att du borde, men det är fortfarande jobbigt.",
+      "subtitles": [
+        "Tänk om du kunde lämna över den svåra delen? Möt Hubert, vår nya systerprodukt.",
+        "Den plockar upp det viktigaste om ditt företag och använder det för att skriva ett inlägg i veckan åt dig, redo att granska och schemalägga, till och med via WhatsApp 📱"
+      ],
+      "primaryCta": "Se ditt första inlägg, helt gratis →",
+      "secondaryCta": "Kanske senare",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "Tänk om skrivdelen av dina sociala medier skötte sig själv?",
+      "subtitles": [
+        "Vi har precis lanserat en produkt som samlar det viktigaste om ditt företag och gör det till ett inlägg i veckan, redo att granska och schemalägga, till och med via WhatsApp!",
+        "Det är Hubert, vår nya systerprodukt."
+      ],
+      "primaryCta": "Se ditt första inlägg, helt gratis →",
+      "secondaryCta": "Inte just nu",
+      "ctaAction": "hubert"
+    }
+  },
+  "tr": {
+    "HG-SM-notification-hubert-social-v1-a": {
+      "title": "Açık konuşalım: işletmen için sosyal medya her gün spor yapmak gibi — yapman gerektiğini biliyorsun ama yine de bir angarya.",
+      "subtitles": [
+        "Ya zor kısmı başkasına devredebilseydin? Yeni kardeş ürünümüz Hubert ile tanış.",
+        "İşletmenle ilgili önemli şeyleri toplar ve bunlardan sana haftada bir gönderi yazar, gözden geçirip planlaman için hazır, hatta WhatsApp üzerinden 📱"
+      ],
+      "primaryCta": "İlk gönderini gör, tamamen ücretsiz →",
+      "secondaryCta": "Belki sonra",
+      "ctaAction": "hubert"
+    },
+    "HG-SM-notification-hubert-social-v1-b": {
+      "title": "Ya sosyal medyanın yazı kısmı kendi kendine hallolsaydı?",
+      "subtitles": [
+        "Az önce, işletmenle ilgili önemli şeyleri toplayıp haftada bir gönderiye dönüştüren bir ürün çıkardık, gözden geçirip planlaman için hazır, hatta WhatsApp üzerinden!",
+        "Bu, yeni kardeş ürünümüz Hubert."
+      ],
+      "primaryCta": "İlk gönderini gör, tamamen ücretsiz →",
+      "secondaryCta": "Şimdi değil",
+      "ctaAction": "hubert"
+    }
+  }
+}

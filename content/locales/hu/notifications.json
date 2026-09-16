@@ -1,0 +1,22 @@
+{
+  "HG-SM-notification-hubert-social-v1-a": {
+    "title": "Legyünk őszinték: a vállalkozásod közösségi médiája olyan, mint a napi edzés — tudod, hogy kellene, de attól még nyűg marad.",
+    "subtitles": [
+      "Mi lenne, ha a nehezét átadhatnád valaki másnak? Ismerd meg Hubertet, az új testvértermékünket.",
+      "Összeszedi a lényeget a vállalkozásodról, és ebből ír neked heti egy posztot, készen az átnézésre és ütemezésre, akár WhatsAppon is 📱"
+    ],
+    "primaryCta": "Nézd meg az első posztod, teljesen ingyen →",
+    "secondaryCta": "Talán később",
+    "ctaAction": "hubert"
+  },
+  "HG-SM-notification-hubert-social-v1-b": {
+    "title": "Mi lenne, ha a közösségi médiád írós része magától megoldódna?",
+    "subtitles": [
+      "Épp most indítottunk egy terméket, amely összegyűjti a lényeget a vállalkozásodról, és heti egy poszttá alakítja, készen az átnézésre és ütemezésre, akár WhatsAppon is!",
+      "Ő Hubert, az új testvértermékünk."
+    ],
+    "primaryCta": "Nézd meg az első posztod, teljesen ingyen →",
+    "secondaryCta": "Most nem",
+    "ctaAction": "hubert"
+  }
+}

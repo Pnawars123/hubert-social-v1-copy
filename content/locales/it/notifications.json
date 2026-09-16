@@ -1,0 +1,22 @@
+{
+  "HG-SM-notification-hubert-social-v1-a": {
+    "title": "Diciamocelo: gestire i social della tua attività è come allenarsi ogni giorno — sai che dovresti, ma resta comunque una scocciatura.",
+    "subtitles": [
+      "E se potessi affidare a qualcun altro la parte più difficile? Ti presento Hubert, il nostro nuovo prodotto gemello.",
+      "Raccoglie le informazioni chiave sulla tua attività e le usa per scriverti un post a settimana, pronto da rivedere e programmare, anche via WhatsApp 📱"
+    ],
+    "primaryCta": "Guarda il tuo primo post, è gratis →",
+    "secondaryCta": "Forse più tardi",
+    "ctaAction": "hubert"
+  },
+  "HG-SM-notification-hubert-social-v1-b": {
+    "title": "E se la parte più noiosa dei social si scrivesse da sola?",
+    "subtitles": [
+      "Abbiamo appena lanciato un prodotto che raccoglie le informazioni chiave sulla tua attività e le trasforma in un post a settimana, pronto da rivedere e programmare, anche via WhatsApp!",
+      "È Hubert, il nostro nuovo prodotto gemello."
+    ],
+    "primaryCta": "Guarda il tuo primo post, è gratis →",
+    "secondaryCta": "Non ora",
+    "ctaAction": "hubert"
+  }
+}

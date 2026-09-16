@@ -1,0 +1,22 @@
+{
+  "HG-SM-notification-hubert-social-v1-a": {
+    "title": "Ollaan rehellisiä: yrityksesi somen hoitaminen on kuin päivittäinen treeni — tiedät, että pitäisi, mutta silti se on vaivalloista.",
+    "subtitles": [
+      "Mitä jos voisit antaa vaikeimman osan jonkun muun hoidettavaksi? Tässä on Hubert, uusi sisartuotteemme.",
+      "Se poimii yrityksesi tärkeimmät asiat ja kirjoittaa niistä sinulle yhden julkaisun viikossa, valmiina tarkistettavaksi ja ajastettavaksi, jopa WhatsAppin kautta 📱"
+    ],
+    "primaryCta": "Katso ensimmäinen julkaisusi, täysin ilmaiseksi →",
+    "secondaryCta": "Ehkä myöhemmin",
+    "ctaAction": "hubert"
+  },
+  "HG-SM-notification-hubert-social-v1-b": {
+    "title": "Mitä jos somesi kirjoittaminen hoituisi itsestään?",
+    "subtitles": [
+      "Julkaisimme juuri tuotteen, joka kokoaa yrityksesi tärkeimmät asiat ja muuttaa ne yhdeksi julkaisuksi viikossa, valmiina tarkistettavaksi ja ajastettavaksi, jopa WhatsAppin kautta!",
+      "Se on Hubert, uusi sisartuotteemme."
+    ],
+    "primaryCta": "Katso ensimmäinen julkaisusi, täysin ilmaiseksi →",
+    "secondaryCta": "Ei nyt",
+    "ctaAction": "hubert"
+  }
+}

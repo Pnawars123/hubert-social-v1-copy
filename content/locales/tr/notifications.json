@@ -1,0 +1,22 @@
+{
+  "HG-SM-notification-hubert-social-v1-a": {
+    "title": "Açık konuşalım: işletmen için sosyal medya her gün spor yapmak gibi — yapman gerektiğini biliyorsun ama yine de bir angarya.",
+    "subtitles": [
+      "Ya zor kısmı başkasına devredebilseydin? Yeni kardeş ürünümüz Hubert ile tanış.",
+      "İşletmenle ilgili önemli şeyleri toplar ve bunlardan sana haftada bir gönderi yazar, gözden geçirip planlaman için hazır, hatta WhatsApp üzerinden 📱"
+    ],
+    "primaryCta": "İlk gönderini gör, tamamen ücretsiz →",
+    "secondaryCta": "Belki sonra",
+    "ctaAction": "hubert"
+  },
+  "HG-SM-notification-hubert-social-v1-b": {
+    "title": "Ya sosyal medyanın yazı kısmı kendi kendine hallolsaydı?",
+    "subtitles": [
+      "Az önce, işletmenle ilgili önemli şeyleri toplayıp haftada bir gönderiye dönüştüren bir ürün çıkardık, gözden geçirip planlaman için hazır, hatta WhatsApp üzerinden!",
+      "Bu, yeni kardeş ürünümüz Hubert."
+    ],
+    "primaryCta": "İlk gönderini gör, tamamen ücretsiz →",
+    "secondaryCta": "Şimdi değil",
+    "ctaAction": "hubert"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "HG-SM-notification-hubert-social-v1-a": {
+    "title": "Buďme upřímní: sociální sítě pro tvůj byznys jsou jako každodenní cvičení — víš, že bys měl(a), ale pořád je to otrava.",
+    "subtitles": [
+      "Co kdybys tu těžkou část mohl(a) předat někomu jinému? Seznam se s Hubertem, naším novým sourozeneckým produktem.",
+      "Sesbírá klíčové věci o tvém podnikání a napíše ti z nich jeden příspěvek týdně, připravený ke kontrole a naplánování, i přes WhatsApp 📱"
+    ],
+    "primaryCta": "Podívej se na svůj první příspěvek, úplně zdarma →",
+    "secondaryCta": "Možná později",
+    "ctaAction": "hubert"
+  },
+  "HG-SM-notification-hubert-social-v1-b": {
+    "title": "Co kdyby se psaní na tvé sociální sítě postaralo samo o sebe?",
+    "subtitles": [
+      "Právě jsme spustili produkt, který sesbírá klíčové věci o tvém podnikání a promění je v jeden příspěvek týdně, připravený ke kontrole a naplánování, i přes WhatsApp!",
+      "Je to Hubert, náš nový sourozenecký produkt."
+    ],
+    "primaryCta": "Podívej se na svůj první příspěvek, úplně zdarma →",
+    "secondaryCta": "Teď ne",
+    "ctaAction": "hubert"
+  }
+}

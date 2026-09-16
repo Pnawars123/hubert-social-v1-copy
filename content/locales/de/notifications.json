@@ -1,0 +1,22 @@
+{
+  "HG-SM-notification-hubert-social-v1-a": {
+    "title": "Seien wir ehrlich: Social Media für Ihr Unternehmen ist wie tägliches Training — Sie wissen, dass Sie sollten, aber lästig bleibt es trotzdem.",
+    "subtitles": [
+      "Was, wenn Sie den schwierigsten Teil abgeben könnten? Das ist Hubert, unser neues Schwesterprodukt.",
+      "Es sammelt die wichtigsten Infos zu Ihrem Unternehmen und schreibt Ihnen damit einen Post pro Woche, bereit zum Prüfen und Planen, sogar per WhatsApp 📱"
+    ],
+    "primaryCta": "Ersten Post ansehen, gratis →",
+    "secondaryCta": "Vielleicht später",
+    "ctaAction": "hubert"
+  },
+  "HG-SM-notification-hubert-social-v1-b": {
+    "title": "Was, wenn sich der Schreib-Teil Ihrer Social Media von selbst erledigen würde?",
+    "subtitles": [
+      "Wir haben gerade ein Produkt veröffentlicht, das die wichtigsten Infos zu Ihrem Unternehmen sammelt und daraus einen Post pro Woche macht, bereit zum Prüfen und Planen, sogar per WhatsApp!",
+      "Es ist Hubert, unser neues Schwesterprodukt."
+    ],
+    "primaryCta": "Ersten Post ansehen, gratis →",
+    "secondaryCta": "Jetzt nicht",
+    "ctaAction": "hubert"
+  }
+}

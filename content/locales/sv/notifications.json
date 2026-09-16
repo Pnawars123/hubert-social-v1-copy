@@ -1,0 +1,22 @@
+{
+  "HG-SM-notification-hubert-social-v1-a": {
+    "title": "Låt oss vara ärliga: sociala medier för ditt företag är som att träna varje dag — du vet att du borde, men det är fortfarande jobbigt.",
+    "subtitles": [
+      "Tänk om du kunde lämna över den svåra delen? Möt Hubert, vår nya systerprodukt.",
+      "Den plockar upp det viktigaste om ditt företag och använder det för att skriva ett inlägg i veckan åt dig, redo att granska och schemalägga, till och med via WhatsApp 📱"
+    ],
+    "primaryCta": "Se ditt första inlägg, helt gratis →",
+    "secondaryCta": "Kanske senare",
+    "ctaAction": "hubert"
+  },
+  "HG-SM-notification-hubert-social-v1-b": {
+    "title": "Tänk om skrivdelen av dina sociala medier skötte sig själv?",
+    "subtitles": [
+      "Vi har precis lanserat en produkt som samlar det viktigaste om ditt företag och gör det till ett inlägg i veckan, redo att granska och schemalägga, till och med via WhatsApp!",
+      "Det är Hubert, vår nya systerprodukt."
+    ],
+    "primaryCta": "Se ditt första inlägg, helt gratis →",
+    "secondaryCta": "Inte just nu",
+    "ctaAction": "hubert"
+  }
+}
